@@ -1,4 +1,4 @@
-package instagram.instagram_CloneCoding;
+package instagram.instagram_CloneCoding.dto.user;
 
 import lombok.*;
 
